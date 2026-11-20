@@ -1,7 +1,10 @@
 ## _Currently included material:_
 
+### Content Writing Revision Example
+This project was a revision assignment for RWS 515 Content Writing. The subject website was analyzed for potential improvements and revisions were made to the content along with a description of the rationale behind the rework. In this case, I chose to improve on errors and inconsistencies on the "Contact Us" dropdown page, improving accessibility and navigation consistency.
+
 ### Grant Memorandum Example
-This was an example document from RWS 507 Nonprofit Communication. This project was a technical memo, analyzing an existing city development guide to support a grant application for revision of said document. Over the course of the project, we overcame interesting challenges in research and planning that we hadn't really tackled before. It was a great experience not only with constructing project narratives but also with communicating within a team and working around deadlines.
+This was an example document from RWS 507 Nonprofit Communication. The resulting product was a technical memo, analyzing an existing city development guide to support a grant application for revision of said document. Over the course of the project, we overcame interesting challenges in research and planning that we hadn't really tackled before. It was a great experience not only with constructing project narratives but also with communicating within a team and working around deadlines.
 
 ### Copyediting Manuscript Example
 This is an example document from RWS 510 Professional Editing. It involves copyediting an academic manuscript according to style, formatting, and submission requirements, alongside minor writing suggestions.
