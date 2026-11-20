@@ -10,10 +10,10 @@ This was an example document from RWS 507 Nonprofit Communication. The resulting
 This is an example document from RWS 510 Professional Editing. It involves copyediting an academic manuscript according to style, formatting, and submission requirements, alongside minor writing suggestions.
 
 ### Extended Definition Example
-This is an example document from RWS 503 Professional Writing. It was a writing exercise for a functional extended definition of the term "Manual", as in the instructional text.
+This is an example document from RWS 503 Professional Writing. It was a writing exercise for a functional extended definition of the term "Manual", as in the instructional text. The exercise was an excellent opportunity to not only improve my prose but also my confidence in defining and explaining concrete material.
 
 ### Flier Example
-This is an example document from my internship at PartnerPepTalk. It was a short flier I created and handed out to attract participants for our survey and interview initiative.
+This is an example document from my internship at PartnerPepTalk. It was a short flier I created and handed out to attract participants for our survey and interview initiative. While actual participants were unfortunately limited, the experience of drafting a flier and communicating with potential study participants developed my skills in targeted advertisement and persuasive writing.
 
 ### Short Rhetorical Analysis
-This is an example document from my internship at PartnerPepTalk. It consists of a short rhetorical analysis of a subject information document provided by my supervisor at the time.
+This is an example document from my internship at PartnerPepTalk. It consists of a short rhetorical analysis of a subject information document provided by my supervisor at the time. Research skills are best developed through practice, and the provided material was also a great example of medical tone and presentation.
